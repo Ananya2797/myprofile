@@ -1,0 +1,38 @@
+
+.header{
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./23616525.jpg);
+    background-size: cover;
+  background-repeat:  no-repeat;
+}
+.header h1{
+    
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+.header p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 2rem;
+}
+.marketing .row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.marketing h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+.marketing p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 1rem;
+}
+.marketing img{
+    border-radius: 50%;
+    text-align: center;
+}
+.profile p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
